@@ -45,42 +45,42 @@ const styles = StyleSheet.create({
   },
 
   square1: {
-    width: 180,
+    width: 198,
     height: 200,
     backgroundColor: '#a900e6',
     margin: 3,
   },
 
   square2: {
-    width: 180,
+    width: 198,
     height: 200,
     backgroundColor: '#459dff',
     margin: 3,
   },
 
   square3: {
-    width: 180,
+    width: 198,
     height: 400,
     backgroundColor: '#7e00ff',
     margin: 3,
   },
 
   square4: {
-    width: 180,
+    width: 198,
     height: 200,
     backgroundColor: '#97b6ff',
     margin: 3,
   },
 
   square5: {
-    width: 180,
+    width: 198,
     height: 400,
     backgroundColor: '#459dff',
     margin: 3,
   },
 
   square6: {
-    width: 180,
+    width: 198,
     height: 200,
     backgroundColor: '#8200c6',
     margin: 3,
